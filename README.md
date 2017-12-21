@@ -42,7 +42,7 @@ grcc -d . LoRaSenderUDP.grc
 ```
 Run `LoRaSenderUDP.py`.
 
-![LoRaSenderUDP screenshot]https://github.com/MeshyMcMeshFace/LoRa-tools/raw/master/images/LoRaSenderUDP.png
+![LoRaSenderUDP screenshot](https://github.com/MeshyMcMeshFace/LoRa-tools/raw/master/images/LoRaSenderUDP.png)
 
 In the Receiver GUI You can set The `Frequency` you want to decode. If you receiving weak signals rasing the `SDR LNA gain` might help. If your SDR dongle have a crappy crystal you cant enter your calibration value in to `SDR ppm offset`. You can even trying to change the `LoRa Spreading Factor`.
 
