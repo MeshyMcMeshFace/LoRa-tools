@@ -3,6 +3,8 @@ Tools to help with the diagnostics of LoRa
 
 ## SDR tools
 
+**You need an RTL2838 tv dongle also known as RTL-SDR to use the SDR tools out of the box.**
+
 ### Install required packages on Ubuntu
 ```
 sudo apt-get install rtl-sdr gnuradio gr-osmosdr git autoconf python-numpy python-scipy swig fftw-dev libvolk1-dev cmake wx3.0-headers liblog4cpp5-dev libcppunit-dev
