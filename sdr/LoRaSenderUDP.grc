@@ -418,7 +418,7 @@
     <key>lora_message_socket_sink</key>
     <param>
       <key>loraphy</key>
-      <value>True</value>
+      <value>False</value>
     </param>
     <param>
       <key>loratap</key>
@@ -438,7 +438,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>0</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -465,7 +465,7 @@
     <key>lora_message_socket_sink</key>
     <param>
       <key>loraphy</key>
-      <value>False</value>
+      <value>True</value>
     </param>
     <param>
       <key>loratap</key>
@@ -485,7 +485,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>0</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
