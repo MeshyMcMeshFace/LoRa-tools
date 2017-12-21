@@ -6,7 +6,7 @@
     <key>options</key>
     <param>
       <key>author</key>
-      <value></value>
+      <value>Rikard Lindstrom &lt;ornotermes@gmail.com&gt;</value>
     </param>
     <param>
       <key>window_size</key>
@@ -18,11 +18,24 @@
     </param>
     <param>
       <key>comment</key>
-      <value></value>
+      <value>Copyright (c) 2017 Rikard Lindstrom &lt;ornotermes@gmail.com&gt;
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.</value>
     </param>
     <param>
       <key>description</key>
-      <value></value>
+      <value>Decode LoRa with gr-lora by rpp0 and send frames over UDP.</value>
     </param>
     <param>
       <key>_enabled</key>
@@ -30,7 +43,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(8, 8)</value>
+      <value>(696, 16)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -46,7 +59,7 @@
     </param>
     <param>
       <key>id</key>
-      <value>top_block</value>
+      <value>LoRaSenderUDP</value>
     </param>
     <param>
       <key>max_nouts</key>
@@ -78,7 +91,7 @@
     </param>
     <param>
       <key>title</key>
-      <value></value>
+      <value>LoRaSenderUDP</value>
     </param>
   </block>
   <block>
@@ -93,7 +106,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(16, 172)</value>
+      <value>(16, 84)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -328,7 +341,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(16, 108)</value>
+      <value>(16, 12)</value>
     </param>
     <param>
       <key>_rotation</key>
