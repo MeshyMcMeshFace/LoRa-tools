@@ -42,6 +42,10 @@ grcc -d . LoRaSenderUDP.grc
 ```
 Run `LoRaSenderUDP.py`.
 
+![LoRaSenderUDP screenshot]https://github.com/MeshyMcMeshFace/LoRa-tools/raw/master/images/LoRaSenderUDP.png
+
+In the Receiver GUI You can set The `Frequency` you want to decode. If you receiving weak signals rasing the `SDR LNA gain` might help. If your SDR dongle have a crappy crystal you cant enter your calibration value in to `SDR ppm offset`. You can even trying to change the `LoRa Spreading Factor`.
+
 When LoRaSender UDP are running you can listen to the UDP ports 10541 and 10542.
 Port 10541 get only the data sent by the LoRa device while 10542 also get the explicit header of 3 bytes.
 
