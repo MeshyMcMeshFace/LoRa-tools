@@ -49,9 +49,9 @@ While `LoRaSenderUDP.py` are running you can run a UDP reciever to decode packag
 
 ### Settings for LoRa transmitter
 These settings are known to work:
-+Bandwidth: 125kHz
-+Spreading Factor: 8
-+Coding Rate: 4/5
-+Explicit mode
-+CRC disabled
++ Bandwidth: 125kHz
++ Spreading Factor: 8
++ Coding Rate: 4/5
++ Explicit mode
++ CRC disabled
 
